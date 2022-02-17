@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Command line RPG using OOP and TDD in Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperDasMan/Jest-Another-RPG.git"
+  },
+  "author": "Josh West",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuperDasMan/Jest-Another-RPG/issues"
+  },
+  "homepage": "https://github.com/SuperDasMan/Jest-Another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
